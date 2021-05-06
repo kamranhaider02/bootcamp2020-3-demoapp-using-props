@@ -1,5 +1,7 @@
-#Web url is 
-bootcamp2020-3-demoapp-using-props.surge.sh
+# Web url is 
+
+http://bootcamp2020-3-demoapp-using-props.surge.sh/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
