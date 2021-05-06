@@ -3,7 +3,7 @@ import logo from "../logo.svg";
 
 const FeaturedCourses = (props) => {
   const c = props.feturedCourses;
-  const featuredCourses = c.filter((ftcourse) => ftcourse.length > 6);
+  const featuredCourses = c.filter((ftcourse) => ftcourse.length > 10);
   return (
     <div className="courses">
       <h1>Our Featured Courses</h1>
